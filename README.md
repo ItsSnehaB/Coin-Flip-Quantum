@@ -58,3 +58,4 @@ Simply open `index.html` in a modern web browser.
 ## Dependencies
 
 - Quantum Circuit Library v0.9.226
+  DEMO OUTPUT OF PROJECT https://itssnehab.github.io/Coin-Flip-Quantum/
